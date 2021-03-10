@@ -1,5 +1,5 @@
 # springboot-docker-demo
-This repository talks about the containerization of springboot application using Docker.
+This repository talks about the containerization of springboot app using Docker.
 
 
 ## How to create a JAR file?
